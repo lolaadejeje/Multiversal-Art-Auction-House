@@ -11,3 +11,5 @@ Q
 !tests/multiversal-auction.test.ts,5/5/557f0f8383789492da2733b7d7d1dcffc251eaab
 J
 contracts/quantum-rng.clar,7/1/710699849a2ac542813668e4b42d0573cf83b7bf
+I
+tests/quantum-rng.test.ts,6/4/6404354c658dedd47fe57b2eb3598408618527b5
